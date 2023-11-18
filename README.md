@@ -1,8 +1,4 @@
-# Web-Page-to-PDF-Downloader
-This Python script streamlines web page archiving by offering a straightforward user interface. 
-Certainly! Here's a detailed description you can include in your README file:
 
----
 
 # Web Page to PDF Downloader
 
